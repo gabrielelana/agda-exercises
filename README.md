@@ -16,7 +16,7 @@ pull request.
 
 Solve the problems in the following order:
 
-1. FizzBuzz
+1. [FizzBuzz](./src/FizzBuzz_Holey.agda)
 
 ### How to use this repository
 
