@@ -17,7 +17,8 @@ pull request.
 Solve the problems in the following order:
 
 1. [EvenOrOdd](./src/EvenOrOdd_Holey.agda)
-2. [FizzBuzz](./src/FizzBuzz_Holey.agda)
+2. [Collatz](./src/Collatz_Holey.agda)
+3. [FizzBuzz](./src/FizzBuzz_Holey.agda)
 
 ### How to use this repository
 
